@@ -9,24 +9,14 @@ At Speak Up, one of our main priorities is the privacy of our visitors. This Pri
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-## Patient Data
+## User Data
 
-Speak Up is mainly used to record several information that can be categorized as personally identifiable, such as patient name, medical record and so on. Those informations are transferred through secure communication protocol and are also encrypted in transit.
+Speak Up app records several information that can be categorized as personally identifiable which includes user names and emails for authentication purpose. These informations are transferred through secure communication protocol and are also encrypted in transit.
+The app also stores and processes voice recordings on the server when a user is using the pronunciation quiz feature of the app. These voice recordings are only stored temporarily for pronunciation mistake detection purpose and deleted afterward. NO VOICE DATA IS USED TO TRAIN OR DEVELOP ANY ARTIFICIAL INTELLIGENCE MODELS.
 
 <h2>Log Files</h2>
 
 <p>Speak Up follows a standard procedure of using log files. These files log visitors when they use app. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the app, tracking users' movement on the app, and gathering demographic information.</p>
-
-<h2>Our Advertising Partners</h2>
-
-<p>Some of advertisers in our app may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.</p>
-
-<ul>
-    <li>
-        <p>Google</p>
-        <p><a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
-    </li>
-</ul>
 
 <h2>Privacy Policies</h2>
 
@@ -44,7 +34,7 @@ Speak Up is mainly used to record several information that can be categorized as
 
 <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-<p>Speak Up does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our App, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<p>Speak Up does not knowingly collect any Personal Identifiable Information from children under the age of 13 other than what is specified above. If you think that your child provided this kind of information on our App, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 
 <h2>Online Privacy Policy Only</h2>
 
